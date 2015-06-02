@@ -1,0 +1,46 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="android:windowBackground">@color/nulleye_background</item>
+        <item name="colorPrimary">@color/nulleye_foreground</item>
+        <item name="colorPrimaryDark">@color/nulleye_foreground2</item>
+        <item name="android:textColorPrimary">@color/nulleye_textColor</item>
+        <item name="android:textColorSecondary">@color/nulleye_textColor</item>
+        <item name="android:colorBackground">@color/nulleye_background</item>
+        <item name="android:popupMenuStyle">@style/menuPopup</item>
+    </style>
+
+    <style name="menuPopup" parent="android:Widget.Holo.Light.ListPopupWindow">
+        <item name="android:popupBackground">@color/nulleye_foreground</item>
+    </style>
+
+    <!--
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="android:windowBackground">@color/nulleye_background</item>
+        <item name="android:actionBarStyle">@style/actionBar</item>
+        <item name="android:actionOverflowButtonStyle">@style/ellipsis</item>
+        <item name="android:popupMenuStyle">@style/menuPopup</item>
+        <item name="android:textColorPrimary">@color/nulleye_textColor</item>
+        <item name="android:textColorSecondary">@color/nulleye_textColor</item>
+        <item name="android:colorBackground">@color/nulleye_foreground</item>
+        <item name="android:windowActionBar">true</item>
+    </style>
+
+    <style name="actionBar" parent="android:Widget.Holo.Light.ActionBar.Solid">
+        <item name="android:background">@color/nulleye_background</item>
+        <item name="android:titleTextStyle">@style/actionBarText</item>
+    </style>
+
+    <style name="actionBarText" parent="android:TextAppearance.Holo.Widget.ActionBar.Title">
+        <item name="android:textColor">@color/nulleye_textColor</item>
+    </style>
+
+    <style name="ellipsis" parent="android:Widget.Holo.ActionButton.Overflow">
+        <item name="android:color">@color/nulleye_textColor</item>
+    </style>
+
+    -->
+
+
+</resources>

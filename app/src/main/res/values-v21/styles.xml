@@ -1,0 +1,12 @@
+<resources>
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="android:windowBackground">@color/nulleye_background</item>
+        <item name="colorPrimary">@color/nulleye_foreground</item>
+        <item name="colorPrimaryDark">@color/nulleye_foreground2</item>
+        <item name="android:textColorPrimary">@color/nulleye_textColor</item>
+        <item name="android:textColorSecondary">@color/nulleye_textColor</item>
+        <item name="android:colorBackground">@color/nulleye_background</item>
+    </style>
+
+</resources>

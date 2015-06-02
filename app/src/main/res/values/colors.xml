@@ -1,0 +1,7 @@
+<resources>
+    <color name="nulleye_background">#FF5D4744</color>
+    <color name="nulleye_background2">#FF463533</color>
+    <color name="nulleye_foreground">#FF291F1E</color>
+    <color name="nulleye_foreground2">#FF1E1716</color>
+    <color name="nulleye_textColor">#FFFFFFFF</color>
+</resources>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My App Portolio</string>
+
+    <string name="not_implemented">Sorry, not yet implemented!</string>
+    <string name="will_launch">This button will launch my %s application!</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
